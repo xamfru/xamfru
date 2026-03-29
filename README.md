@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @xamfru
-- 👀 I’m interested in hydrology, gong fu, cooking
-- 🌱 I’m currently learning science, data handling and visualization
-- 💞️ I’m looking to collaborate on everything i can find time for
-- 📫 How to reach me xam207@gmail.com
+- 👋 Hello, I’m @xamfru
+- 👀 I’m interested in hydrology, stable isotopes and philosophy
+- 🌱 I’m currently looking for a phd
+- 📫 How to reach me: xam207@gmail.com
 
 <!---
 xamfru/xamfru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
